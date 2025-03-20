@@ -1,0 +1,12 @@
+# virtual environment
+.env
+.venv
+env/
+venv/
+# pycache files
+__pycache__/*
+__pycache__/
+*.pyc
+*.pyo
+db.sqlite3
+.idea
