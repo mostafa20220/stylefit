@@ -24,8 +24,8 @@ StyleFit is a smart outfit suggestion system that helps users organize their war
 
 ### 🛠️ Tech Stack
 - **Backend:** Django, Django REST Framework
-- **Database:** MongoDB (storing outfit data in JSON format)
-- **Frontend:** React.js (or another preferred UI framework)
+- **Database:** MongoDB
+- **Mobile:** React Native
 <!-- - **Authentication:** Django Allauth or JWT-based login (optional feature) -->
 
 ## Installation & Setup
